@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nannan</h1>
-<h3 align="center">if (me.about=="likes everything computers.") { return True }</h3>
+<h3 align="center">if (me.about=="likes everything computers.") { return true }</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanna7077&label=Profile%20views&color=0e75b6&style=flat" alt="nanna7077" /> </p>
 
