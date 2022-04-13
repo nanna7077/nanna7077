@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanna7077&label=Profile%20views&color=0e75b6&style=flat" alt="nanna7077" /> </p>
 
-- 🔭 I’m currently working on [Wallux](https://wallux-0.github.io/Wallux/)
+- 🔭 I’m currently working on [WireSnitch](https://github.com/nanna7077/wiresnitch)
 
 - 🌱 I’m learning **Everything I can**
 
