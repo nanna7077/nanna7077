@@ -6,9 +6,12 @@
   <a href="https://nanna7077.github.io" target="_blank"><img src="https://img.shields.io/badge/website-nanna7077.github.io-blue?style=flat-square&logo=github"></a>
 </p>
 
+<p align="center">Check out my Discord Bot <a href="https://chocolabot.github.io">Chocola</a></p>
+
 <p align="center">🌱 I’m learning <strong>Everything that I can</strong></p>
 
 <p align="center">💬 Ask me about <strong>Python</strong></p>
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nanna7077&label=Profile%20views&color=0e75b6&style=flat-square" alt="nanna7077"></p>
 
